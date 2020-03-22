@@ -4,6 +4,6 @@ Twitch is the world’s leading video platform and community where millions of p
 
 In this project,I  will be working with two related tables that describe user engagement with Twitch video and chat. The project is broken down into two parts:
 
-Part 1: Analyze Data with SQL
-Part 2: Visualize Data with Matplotlib
+1. Analyze Data with SQL
+2. Visualize Data with Matplotlib
                 
